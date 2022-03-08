@@ -1,0 +1,13 @@
+{
+    "devDependencies": {
+        "typescript": "^4.6.2",
+        "typed-wireshark-plugin": "^0.1.7",
+        "typescript-to-lua": "^1.3.4"
+    },
+    "dependencies": {
+    },
+    "scripts": {
+        "build": "tstl"
+    }
+}
+  
